@@ -1,0 +1,133 @@
+# Practical Project Notes
+
+**English** · [简体中文](README.md) · [繁體中文](README.zh-TW.md)
+
+Projects and tools for academic research, portfolios and design, English reading, and business observation. All descriptions are on this page, organized by category.
+
+[Academic Research](#academic-research) · [Portfolios and Design](#portfolios-and-design) · [English Reading](#english-reading) · [Business Observation](#business-observation)
+
+## Academic Research
+
+Course learning, literature organization, research design, data analysis, and academic communication.
+
+### Study Buddy
+
+- **Introduction**: An AI study companion Skill for university courses. It turns slides, textbooks, and past exam papers into topic-based notes, connecting semester planning, guided study, and exam revision.
+- **Key features**: Material transcription and note organization; weekly study lists; customizable teaching styles; quizzes and error logs; mock exams and revision outlines; support for presentations, course papers, and assignment files.
+- **Use cases**: Managing several courses, organizing scattered slides, and preparing for final exams or course presentations.
+- **Usage**: Initialize a course directory, put materials in each course’s `原始资料/` folder, and describe your study or organization needs. Currently requires Windows, Word / PowerPoint, Node.js ≥ 22.20, and Python ≥ 3.10. OCR, image interpretation, and TeX outlines require additional configuration. Office conversion uses Windows COM. See the [installation instructions](https://github.com/Liunian06/study-buddy#快速开始).
+- **GitHub**: [Liunian06/study-buddy](https://github.com/Liunian06/study-buddy)
+
+### K-Dense Scientific Agent Skills
+
+- **Introduction**: A collection of Agent Skills covering scientific research, data analysis, and research communication.
+- **Key features**: Literature synthesis, research reasoning, scientific databases and analysis tools, scientific writing, figures, and presentations.
+- **Use cases**: Finding specialized skills for literature processing, data analysis, and communicating research.
+- **Usage**: Choose modules for your task and read their SKILL.md files, dependencies, and installation instructions. Much of the collection concerns natural sciences; select social science applications by method and task.
+- **GitHub**: [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+
+### Anthropic Skills · Documents and Data
+
+- **Introduction**: Anthropic’s collection of Agent Skills examples, including document, PDF, presentation, and spreadsheet modules.
+- **Key features**: Word document processing, PDF extraction and creation, presentation creation, and spreadsheet processing.
+- **Use cases**: Organizing research materials, preparing reports and presentations, and working with tabular data.
+- **Usage**: Select modules such as docx, pdf, pptx, or xlsx and configure the environment following their instructions. Check the licensing terms for document modules separately from other examples.
+- **GitHub**: [anthropics/skills](https://github.com/anthropics/skills)
+
+### interview-script · Interview Guides
+
+- **Introduction**: A skill for creating structured user interview guides for product research.
+- **Key features**: Warm-up questions, core follow-ups, and closing questions grounded in actual experiences and past behavior.
+- **Use cases**: Preparing user interviews or outlining an initial academic interview guide.
+- **Usage**: Provide the research goal, interview participants, and questions of interest. For academic research, adapt the guide to your research question and methodology; the original framework uses product research and JTBD approaches.
+- **GitHub**: A personal local skill; no public repository link is provided.
+
+### summarize-interview · Interview Summaries
+
+- **Introduction**: A skill for turning interview transcripts into structured summaries.
+- **Key features**: Extracting user needs, satisfaction signals, JTBD, and action items.
+- **Use cases**: Organizing interview materials and reviewing their main points.
+- **Usage**: Provide the original transcript and research context. Summaries can help organize materials; formal qualitative coding and thematic analysis are separate tasks.
+- **GitHub**: A personal local skill; no public repository link is provided.
+
+### sql-queries · SQL Queries
+
+- **Introduction**: A skill that generates SQL from natural-language questions and database schemas.
+- **Key features**: Reading schemas and generating queries for dialects including PostgreSQL, MySQL, and BigQuery.
+- **Use cases**: Exploring databases, extracting research data, and preparing analytical reports.
+- **Usage**: Provide the SQL dialect, schema, field definitions, and desired output. Check query conditions and results when running queries.
+- **GitHub**: A personal local skill; no public repository link is provided.
+
+### grammar-check · Text Proofreading
+
+- **Introduction**: Checks grammar, logic, and flow, with targeted editing suggestions.
+- **Key features**: Identifying grammatical errors, unclear wording, and gaps in the flow of an argument.
+- **Use cases**: Proofreading paper drafts, research reports, and English abstracts.
+- **Usage**: Submit the text with its purpose and intended readers. Verify citations and research conclusions against the original evidence.
+- **GitHub**: A personal local skill; no public repository link is provided.
+
+## Portfolios and Design
+
+Case studies, visual communication, game advertising concepts, and presentation materials.
+
+### Anthropic Skills · Creative Work and Design
+
+- **Introduction**: A collection of Agent Skills examples for creative work, art, design, and document creation.
+- **Key features**: Examples of design and content creation skills, illustrating skill organization and production workflows.
+- **Use cases**: Finding visual production methods, design references, and tools for presentation materials.
+- **Usage**: Browse the creative and design modules, then check each skill’s required tools, dependencies, and licensing terms.
+- **GitHub**: [anthropics/skills](https://github.com/anthropics/skills)
+
+### ian-xiaohei-illustrations · Xiaohei Article Illustrations
+
+- **Introduction**: A skill that turns ideas, processes, and metaphors in Chinese articles into hand-drawn explanatory illustrations.
+- **Key features**: Extracting key ideas, designing visual metaphors, writing illustration prompts, and reviewing images; compositions use the Xiaohei character, white backgrounds, and a few colored annotations.
+- **Use cases**: Supporting illustrations for articles, method explanations, and workflows.
+- **Usage**: Provide the article and illustration placement. Identify the central idea, develop the visual expression, then generate and review the image.
+- **GitHub**: A personal local skill; no public repository link is provided.
+
+### block-creative · Game Advertising Concepts
+
+- **Introduction**: An advertising ideation and script review skill for Block, gravity-based, and casual puzzle games.
+- **Key features**: Competitor creative analysis, concept variations, storyboards, segment-by-segment script review, and ad test design.
+- **Use cases**: Developing game advertising case studies, analyzing competitor creatives, and revising storyboards.
+- **Usage**: Provide videos, screenshots, or scripts and describe the task. Ground analysis in the supplied materials; evaluate advertising performance using actual data.
+- **GitHub**: A personal local skill; no public repository link is provided.
+
+### review-resume · Experience and Achievements
+
+- **Introduction**: A resume review and job matching skill for product managers.
+- **Key features**: Reviewing structure, achievement descriptions, keywords, and relevance to a role.
+- **Use cases**: Organizing experience and personal contributions as source material for portfolio case studies.
+- **Usage**: Provide a resume or experience summary, optionally with a target job description. Design processes and visual presentation for individual projects require separate work.
+- **GitHub**: A personal local skill; no public repository link is provided.
+
+## English Reading
+
+Writing practice and proofreading after reading in English.
+
+### grammar-check · English Writing Feedback
+
+- **Introduction**: A proofreading skill for summaries and writing exercises after English reading.
+- **Key features**: Checking grammar, logic between sentences, and flow, with targeted revision suggestions.
+- **Use cases**: Writing an English summary, retelling, or personal response after reading an article.
+- **Usage**: Provide your English text and writing goal. Include the original article when checking whether the summary accurately reflects it.
+- **GitHub**: A personal local skill; no public repository link is provided.
+
+## Business Observation
+
+Product revenue, business models, customer acquisition, and growth case studies.
+
+### How Profitable Startups Grow · BizPeel Revenue and Acquisition Directory
+
+- **Introduction**: A directory of startup revenue bands, growth trends, categories, and acquisition leads, linked to BizPeel’s business research reports.
+- **Key features**: Browse by revenue, growth, recent additions, and category; find founder or official accounts, growth questions, and research reports. The repository description dated 2026-11-05 lists 742 products and states that updates are weekly.
+- **Use cases**: Exploring independent development ideas, researching competitors, and studying SEO, social media, and other acquisition channels.
+- **Usage**: The GitHub directory is publicly readable. Browse the [English README](https://github.com/yihui-dev/how-profitable-startups-grow) or [BizPeel library](https://bizpeel.com/library) for more. Full reports involve unlocking or payment. Interpret revenue bands alongside their dates and sources; distinguish MRR from revenue over the last 30 days. Code is MIT-licensed; table content is copyrighted by BizPeel and requires attribution when quoted.
+- **GitHub**: [yihui-dev/how-profitable-startups-grow](https://github.com/yihui-dev/how-profitable-startups-grow)
+
+## About These Notes
+
+Descriptions are compiled from project documentation and supplied materials. Refer to each original project for installation, dependencies, licensing, and pricing.
+
+The organization takes inspiration from [Awesome Short Drama Skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills), with more practical projects added over time.
