@@ -10,6 +10,14 @@ Projects and tools for academic research, portfolios and design, English reading
 
 Course learning, literature organization, research design, data analysis, and academic communication.
 
+### TextFold · Layered Reading
+
+- **Introduction**: A layered reader for papers, web pages, and long documents. Switch between full text, abridged text, key sentences, key points, and topics to explore the structure before expanding individual paragraphs.
+- **Key features**: Import paper links, web pages, and files such as PDF, Word, and EPUB; fold and expand paragraphs; compare with original pages; add highlights and margin notes; translate and ask AI questions with paragraph references; search and organize a library, with Zotero, Obsidian, and browser integration options.
+- **Use cases**: Exploring paper structure, reading long documents, taking notes alongside the original text, and moving between different levels of detail.
+- **Usage**: Download the macOS or Windows desktop app, or run the local reader through the Python package. Import materials and connect a model to generate reading layers, then expand paragraphs as needed. The abridged layer preserves selected original sentences; key sentences, key points, and topics are AI-generated. See the [project documentation](https://github.com/chenxiachan/textfold) and [download page](https://chenxiachan.github.io/textfold/).
+- **GitHub**: [chenxiachan/textfold](https://github.com/chenxiachan/textfold)
+
 ### Study Buddy
 
 - **Introduction**: An AI study companion Skill for university courses. It turns slides, textbooks, and past exam papers into topic-based notes, connecting semester planning, guided study, and exam revision.

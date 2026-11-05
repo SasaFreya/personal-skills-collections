@@ -10,6 +10,14 @@
 
 課程學習、文獻整理、研究設計、資料分析與學術表達。
 
+### TextFold · 分層閱讀工具
+
+- **介紹**：面向論文、網頁和長文的分層閱讀工具，在全文、簡述、關鍵句、要點和主題五個層級之間切換，先瀏覽文章結構，再展開具體段落閱讀。
+- **主要功能**：匯入論文連結、網頁和 PDF、Word、EPUB 等檔案；逐段摺疊與展開；原文對照；高亮與頁邊筆記；翻譯和帶段落引用的 AI 問答；文獻庫搜尋與分類，並提供 Zotero、Obsidian 和瀏覽器接入方式。
+- **適用場景**：瀏覽論文結構、閱讀長篇資料、對照原文整理筆記，以及在不同資訊層級之間切換閱讀。
+- **使用說明**：可下載 macOS 或 Windows 桌面版，也可透過 Python 包執行本地閱讀器。匯入材料後連線模型生成閱讀層級，再按需展開段落；簡述層保留選取的原句，關鍵句、要點和主題層由 AI 生成。詳見[中文說明](https://github.com/chenxiachan/textfold/blob/main/README.zh-CN.md)與[下載頁面](https://chenxiachan.github.io/textfold/zh.html#download)。
+- **GitHub**：[chenxiachan/textfold](https://github.com/chenxiachan/textfold)
+
 ### Study Buddy 學習搭子
 
 - **介紹**：面向大學課程的 AI 陪學 Skill，把課件、教材和往年題整理成知識點講義，銜接學期規劃、逐節學習和考前複習。
