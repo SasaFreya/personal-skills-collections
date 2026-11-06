@@ -94,6 +94,22 @@ Course learning, literature organization, research design, data analysis, and ac
 
 Case studies, visual communication, game advertising concepts, and presentation materials.
 
+### Oil UI · Interface Design
+
+- **Introduction**: An AI interface design skill by Oil (Lin Zhihuang) for websites, apps, dashboards, and components. It translates product positioning and visual tone into typography, color, spacing, and layout decisions.
+- **Key features**: Research visual references from comparable products; propose design directions; compare distinct alternatives side by side when requested; refine from feedback; recreate interfaces from screenshots; inspect actual desktop and mobile views.
+- **Use cases**: Portfolio websites, product showcases, application interfaces, component design, and choosing a project’s visual direction.
+- **Usage**: Install with `npx skills add oil-oil/oil-ui`, then provide project goals, brand assets, or reference screenshots. It recommends one direction by default, or compares several on request before implementation and refinement. GitHub hosts the open-source edition; Oil UI Pro is a separate paid version with its own feature set.
+- **GitHub**: [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)
+
+### Oil Motion · Interactive Web Animation
+
+- **Introduction**: An interactive animation skill by Oil (Lin Zhihuang). It turns AI-generated or existing video and frame sequences into web animation driven by scrolling, pointers, dragging, touch, or device orientation.
+- **Key features**: Plan motion and keyframes; generate continuous action; inspect and clean problematic frames; compress video or build atlases; arrange timelines; integrate interactions, mobile loading, and static fallbacks.
+- **Use cases**: Animated portfolio showcases, product teardowns, character turns, camera fly-throughs, and continuous section transitions.
+- **Usage**: Install with `npx skills add oil-oil/oil-motion` and describe the assets, motion goal, and control input. Local processing of existing assets requires Python 3.10+ and FFmpeg. AI image and video generation defaults to ZenMux, requires an API key, and incurs generation charges. Simple button feedback and standard interface transitions can be implemented directly with CSS, JavaScript, or similar tools.
+- **GitHub**: [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)
+
 ### Anthropic Skills · Creative Work and Design
 
 - **Introduction**: A collection of Agent Skills examples for creative work, art, design, and document creation.

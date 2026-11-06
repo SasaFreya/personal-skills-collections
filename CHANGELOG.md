@@ -2,6 +2,8 @@
 
 ## 2026-11-06
 
+- 作品集与设计新增 Oil UI 和 Oil Motion，补充功能、场景、安装与原始链接，同步三种语言。
+
 - 为 interview-script、summarize-interview、sql-queries、grammar-check、review-resume 和小黑配图补上核实后的原始 GitHub 链接，同步三种语言。
 
 - 学术科研新增 Frontend Slides 演示设计与 paper-logic-graph 论文论证图，保持五字段结构并同步三种语言。
