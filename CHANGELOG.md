@@ -1,5 +1,10 @@
 # 更新日志
 
+## 2026-11-06
+
+- 学术科研新增 Frontend Slides 演示设计与 paper-logic-graph 论文论证图，保持五字段结构并同步三种语言。
+- 区分 Frontend Slides 的原生 HTML 输出与另行制作可编辑 PPTX 的使用方法。
+
 ## 2026-11-05
 
 - 在学术科研栏目收录 TextFold，补充统一五字段介绍与原始 GitHub 链接，同步三种语言。

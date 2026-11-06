@@ -10,6 +10,22 @@ Projects and tools for academic research, portfolios and design, English reading
 
 Course learning, literature organization, research design, data analysis, and academic communication.
 
+### Frontend Slides · Presentation Design
+
+- **Introduction**: A presentation skill by Zara Zhang that helps coding agents create HTML slides from an outline or convert existing PowerPoint content into a web presentation.
+- **Key features**: Visual style previews; color, typography, and layout presets; animated single-file HTML decks; extraction of text, images, and notes from PPTX; scripts for PDF export and web sharing.
+- **Use cases**: Class presentations, paper discussions, research talks, and developing a presentation’s visual direction.
+- **Usage**: Provide an outline and images, choose a visual style, and generate a web deck. Claude Code supports plugin installation; other coding agents with file and shell access can follow SKILL.md. Native output is HTML. For editable PPTX, the screenshot’s author suggests first requesting a typography, color, and layout plan, then implementing it with a separate PPTX authoring tool. This requires an additional production step; HTML and screenshot-based PDFs are not editable PPTX files.
+- **GitHub**: [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)
+
+### paper-logic-graph · Papers into Argument Maps
+
+- **Introduction**: Turns a paper into an interactive argument map connecting research questions, theory, methods, findings, contributions, and limitations, with source locations for the claims.
+- **Key features**: Linked reading guide and argument map; nested claim cards; support, causal, mediating, and opposing relations; a sidebar for source passages, translations, annotations, and locations; draggable layouts, branch focus, and path highlighting; Chinese, bilingual, and English views; questions with node context.
+- **Use cases**: Close reading, tracing arguments, comparing theoretical relationships, and preparing logical diagrams for literature discussions and research presentations.
+- **Usage**: Extract graph.json from a paper, then render it with build_viewer.py into a self-contained HTML file for viewing and sharing. Claude can use SKILL.md; other agents can follow the repository’s AGENTS.md and integration guide. Rendering uses only the Python 3.8+ standard library; automated extraction needs a model or compatible API. Prefer full text and check quotations and relationship labels, particularly the distinctions between correlation, prediction, mediation, and causation.
+- **GitHub**: [salt-byte/paper-logic-graph](https://github.com/salt-byte/paper-logic-graph)
+
 ### TextFold · Layered Reading
 
 - **Introduction**: A layered reader for papers, web pages, and long documents. Switch between full text, abridged text, key sentences, key points, and topics to explore the structure before expanding individual paragraphs.
