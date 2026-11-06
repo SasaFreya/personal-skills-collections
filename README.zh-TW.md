@@ -64,7 +64,7 @@
 - **主要功能**：組織熱身、核心追問與收尾問題，圍繞實際經歷和既往行為提問。
 - **適用場景**：準備使用者訪談，或為學術訪談提綱提供初步結構。
 - **使用說明**：提供研究目的、訪談物件和關注問題。用於學術研究時，需要依據研究問題和方法調整，原框架採用產品研究與 JTBD 思路。
-- **GitHub**：個人本地技能，未提供公開倉庫連結。
+- **GitHub**：[phuryn/pm-skills · interview-script](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/interview-script)
 
 ### summarize-interview · 訪談摘要
 
@@ -72,7 +72,7 @@
 - **主要功能**：提煉使用者需求、滿意度訊號、JTBD 和行動項。
 - **適用場景**：整理訪談材料，快速回看主要內容。
 - **使用說明**：提供訪談原稿和研究背景；摘要可輔助整理材料，正式質性編碼和主題分析需另行開展。
-- **GitHub**：個人本地技能，未提供公開倉庫連結。
+- **GitHub**：[phuryn/pm-skills · summarize-interview](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/summarize-interview)
 
 ### sql-queries · SQL 查詢
 
@@ -80,7 +80,7 @@
 - **主要功能**：讀取表結構、生成查詢，並適配 PostgreSQL、MySQL、BigQuery 等方言。
 - **適用場景**：探索資料庫、提取研究資料、製作分析報表。
 - **使用說明**：提供資料庫方言、表結構、欄位含義與所需結果，執行時檢查查詢條件和結果。
-- **GitHub**：個人本地技能，未提供公開倉庫連結。
+- **GitHub**：[phuryn/pm-skills · sql-queries](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/sql-queries)
 
 ### grammar-check · 文字校對
 
@@ -88,7 +88,7 @@
 - **主要功能**：識別語法錯誤、表達不清和論述銜接問題。
 - **適用場景**：校對論文草稿、研究報告和英文摘要。
 - **使用說明**：提交文字並說明寫作目的與讀者；引文準確性和研究結論需根據原始證據核查。
-- **GitHub**：個人本地技能，未提供公開倉庫連結。
+- **GitHub**：[phuryn/pm-skills · grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check)
 
 ## 作品集與設計
 
@@ -108,7 +108,7 @@
 - **主要功能**：提煉正文觀點、設計視覺隱喻、編寫配圖提示詞並檢查畫面；以小黑角色、白底和少量彩色批註組織畫面。
 - **適用場景**：文章正文、方法說明和工作流程的輔助配圖。
 - **使用說明**：提供正文與配圖位置，結合核心觀點確定畫面表達，再生成和檢查圖片。
-- **GitHub**：個人本地技能，未提供公開倉庫連結。
+- **GitHub**：[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)
 
 ### block-creative · 遊戲廣告創意
 
@@ -124,7 +124,7 @@
 - **主要功能**：檢查結構、成果表達、關鍵詞與崗位相關性。
 - **適用場景**：梳理個人經歷、提煉專案貢獻，為作品集案例敘事準備素材。
 - **使用說明**：提供簡歷或經歷文字，可同時提供目標崗位；具體作品的設計過程與視覺展示需另行整理。
-- **GitHub**：個人本地技能，未提供公開倉庫連結。
+- **GitHub**：[phuryn/pm-skills · review-resume](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/review-resume)
 
 ## 英語閱讀學習
 
@@ -136,7 +136,7 @@
 - **主要功能**：檢查語法、句間邏輯和表達銜接，給出針對性的修改建議。
 - **適用場景**：讀完文章後寫英文摘要、複述或個人評論。
 - **使用說明**：提供自己寫的英文與表達目標；如需核對摘要是否符合文章，應一併提供原文。
-- **GitHub**：個人本地技能，未提供公開倉庫連結。
+- **GitHub**：[phuryn/pm-skills · grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check)
 
 ## 商業觀察
 

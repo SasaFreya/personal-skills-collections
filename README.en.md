@@ -64,7 +64,7 @@ Course learning, literature organization, research design, data analysis, and ac
 - **Key features**: Warm-up questions, core follow-ups, and closing questions grounded in actual experiences and past behavior.
 - **Use cases**: Preparing user interviews or outlining an initial academic interview guide.
 - **Usage**: Provide the research goal, interview participants, and questions of interest. For academic research, adapt the guide to your research question and methodology; the original framework uses product research and JTBD approaches.
-- **GitHub**: A personal local skill; no public repository link is provided.
+- **GitHub**: [phuryn/pm-skills · interview-script](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/interview-script)
 
 ### summarize-interview · Interview Summaries
 
@@ -72,7 +72,7 @@ Course learning, literature organization, research design, data analysis, and ac
 - **Key features**: Extracting user needs, satisfaction signals, JTBD, and action items.
 - **Use cases**: Organizing interview materials and reviewing their main points.
 - **Usage**: Provide the original transcript and research context. Summaries can help organize materials; formal qualitative coding and thematic analysis are separate tasks.
-- **GitHub**: A personal local skill; no public repository link is provided.
+- **GitHub**: [phuryn/pm-skills · summarize-interview](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/summarize-interview)
 
 ### sql-queries · SQL Queries
 
@@ -80,7 +80,7 @@ Course learning, literature organization, research design, data analysis, and ac
 - **Key features**: Reading schemas and generating queries for dialects including PostgreSQL, MySQL, and BigQuery.
 - **Use cases**: Exploring databases, extracting research data, and preparing analytical reports.
 - **Usage**: Provide the SQL dialect, schema, field definitions, and desired output. Check query conditions and results when running queries.
-- **GitHub**: A personal local skill; no public repository link is provided.
+- **GitHub**: [phuryn/pm-skills · sql-queries](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/sql-queries)
 
 ### grammar-check · Text Proofreading
 
@@ -88,7 +88,7 @@ Course learning, literature organization, research design, data analysis, and ac
 - **Key features**: Identifying grammatical errors, unclear wording, and gaps in the flow of an argument.
 - **Use cases**: Proofreading paper drafts, research reports, and English abstracts.
 - **Usage**: Submit the text with its purpose and intended readers. Verify citations and research conclusions against the original evidence.
-- **GitHub**: A personal local skill; no public repository link is provided.
+- **GitHub**: [phuryn/pm-skills · grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check)
 
 ## Portfolios and Design
 
@@ -108,7 +108,7 @@ Case studies, visual communication, game advertising concepts, and presentation 
 - **Key features**: Extracting key ideas, designing visual metaphors, writing illustration prompts, and reviewing images; compositions use the Xiaohei character, white backgrounds, and a few colored annotations.
 - **Use cases**: Supporting illustrations for articles, method explanations, and workflows.
 - **Usage**: Provide the article and illustration placement. Identify the central idea, develop the visual expression, then generate and review the image.
-- **GitHub**: A personal local skill; no public repository link is provided.
+- **GitHub**: [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)
 
 ### block-creative · Game Advertising Concepts
 
@@ -124,7 +124,7 @@ Case studies, visual communication, game advertising concepts, and presentation 
 - **Key features**: Reviewing structure, achievement descriptions, keywords, and relevance to a role.
 - **Use cases**: Organizing experience and personal contributions as source material for portfolio case studies.
 - **Usage**: Provide a resume or experience summary, optionally with a target job description. Design processes and visual presentation for individual projects require separate work.
-- **GitHub**: A personal local skill; no public repository link is provided.
+- **GitHub**: [phuryn/pm-skills · review-resume](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/review-resume)
 
 ## English Reading
 
@@ -136,7 +136,7 @@ Writing practice and proofreading after reading in English.
 - **Key features**: Checking grammar, logic between sentences, and flow, with targeted revision suggestions.
 - **Use cases**: Writing an English summary, retelling, or personal response after reading an article.
 - **Usage**: Provide your English text and writing goal. Include the original article when checking whether the summary accurately reflects it.
-- **GitHub**: A personal local skill; no public repository link is provided.
+- **GitHub**: [phuryn/pm-skills · grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check)
 
 ## Business Observation
 
